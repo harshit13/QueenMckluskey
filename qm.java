@@ -1,7 +1,7 @@
 /*********************************************************************************
-** HARSHIT 1301CS19
-** Assignment CS221
-** Date of SubMission :- 25/09/2014
+** HARSHIT 
+** 
+** 
 ** Task - To Implement Queen Mckluskey method to find least no. of prime implicants
 **	  for any Boolean function( $$$$ UPTO 7 Variables $$$$ ) 
 *********************************************************************************/
