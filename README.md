@@ -1,2 +1,2 @@
-QueenMckluskey
+QuineMckluskey
 ==============
